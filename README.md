@@ -1,3 +1,3 @@
-# plugin-digital-ocean-database
+# Bellows DigitalOcean Database Plugin
 
-[https://bellows.dev](https://bellows.dev)
+[https://bellows.dev/docs/plugins/digital-ocean-database](https://bellows.dev/docs/plugins/digital-ocean-database)
