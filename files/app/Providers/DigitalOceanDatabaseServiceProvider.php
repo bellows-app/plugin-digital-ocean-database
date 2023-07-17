@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Event;
 use Illuminate\Support\ServiceProvider;
 
-class DigitalOceanServiceProvider extends ServiceProvider
+class DigitalOceanDatabaseServiceProvider extends ServiceProvider
 {
     public function boot()
     {

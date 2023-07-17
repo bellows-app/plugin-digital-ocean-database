@@ -45,7 +45,7 @@ class DigitalOceanDatabase extends Plugin implements Deployable, Installable, Da
     {
         return InstallationResult::create()->updateConfig(
             'database.allow_disabled_pk',
-            "env('DATABASE_ALLOW_DISABLED_PK', false)",
+            "env('DB_ALLOW_DISABLED_PK', false)",
         );
     }
 
